@@ -1,0 +1,6 @@
+
+
+
+this is ashok1.txt file used for text
+:wq
+
